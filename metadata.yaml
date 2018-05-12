@@ -1,0 +1,43 @@
+_repo: Young-Wallingford_32897
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Raleigh, Henry
+    birthdate: 1880
+    deathdate: 1945
+    gutenberg_agent_id: '34545'
+    url: http://www.gutenberg.org/2009/agents/34545
+  - agent_name: Gruger, Frederic Rodrigo
+    aliases:
+    - Gruger, Frederic R. (Frederic Rodrigo)
+    - Gruger, F. R. (Frederic Rodrigo)
+    birthdate: 1871
+    deathdate: 1953
+    gutenberg_agent_id: '31201'
+    url: http://www.gutenberg.org/2009/agents/31201
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chester, George Randolph
+    birthdate: 1869
+    deathdate: 1924
+    gutenberg_agent_id: '1465'
+    url: http://www.gutenberg.org/2009/agents/1465
+    wikipedia: http://en.wikipedia.org/wiki/George_Randolph_Chester
+description: ''
+gutenberg_issued: '2010-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32897'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Swindlers and swindling -- Fiction'
+title: Young Wallingford
+url: http://www.gutenberg.org/ebooks/32897
